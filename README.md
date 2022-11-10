@@ -15,3 +15,19 @@
 분석 레포트에 활용될 수 있는 예시입니다.
 
 ![image](https://user-images.githubusercontent.com/55081331/201048915-d9d99308-b10a-4b2e-9411-186b41b0bf4b.png)
+
+
+## auto_matching_modeling
+
+인턴 근무 당시 작업한 클러스터링입니다.
+
+잔변동이 많은 raw 소셜데이터에 적용하기 위해 다양한 클러스터를 시도하였습니다.
+
+![image](https://user-images.githubusercontent.com/55081331/201049639-f6b00c3a-408d-475f-8045-de9fe3343064.png)
+![image](https://user-images.githubusercontent.com/55081331/201049681-5169be72-c64e-4d67-a68a-85a02ab78694.png)
+![image](https://user-images.githubusercontent.com/55081331/201049737-6d804247-1861-42a2-a683-fe2327892142.png)
+![image](https://user-images.githubusercontent.com/55081331/201049778-5c1889c1-a5c3-4d1e-8229-2a1b274aefb6.png)
+![image](https://user-images.githubusercontent.com/55081331/201049837-91340577-8708-43df-805a-752bc65b7525.png)
+
+### Best result
+![image](https://user-images.githubusercontent.com/55081331/201049937-64f79c4d-997f-4bab-b5d8-24256ad270cf.png)
