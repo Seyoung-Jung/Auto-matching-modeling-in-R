@@ -16,7 +16,7 @@
 분석 레포트에 활용될 수 있는 예시입니다.
 
 ![image](https://user-images.githubusercontent.com/55081331/201048915-d9d99308-b10a-4b2e-9411-186b41b0bf4b.png)
-<br>
+<br><br>
 
 
 ## auto_matching_modeling
